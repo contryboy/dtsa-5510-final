@@ -12,3 +12,5 @@ It contains the following files:
   * Assume we have limited amount of training data, and comparing the performance of supervised learning and unsupervised learning with training data for parameters selection.
 * mnist-4-validation-of-data-efficiency.ipynb
   * To confirm what we concluded from the last notebook, we only use a labeled data set with 200 samples to predict the digits of the test data, if the result accuracy according to the conclusion.
+
+The dataset used is from https://www.kaggle.com/competitions/digit-recognizer, the above notebooks can be run directly in that competition in kaggle.
